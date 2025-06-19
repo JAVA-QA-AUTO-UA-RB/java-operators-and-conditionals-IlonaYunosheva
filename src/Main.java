@@ -69,6 +69,6 @@ public class Main {
             System.out.println("Вітаємо! Ви змогли пройти через чарівний ліс!");
         }
         sc.close();
-        System.out.println("\n[КІНЕЦЬ]");
+        System.out.println("\n[КІНЕЦЬ!]");
     }
 }
